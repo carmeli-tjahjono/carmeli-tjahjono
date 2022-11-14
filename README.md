@@ -6,6 +6,6 @@ I am a Restaurant Manager turned Data Analyst.
 ### About me:
 - 👩🏻‍🎓 Bachelor's Degree in Hospitality Management with 10+ years of professional experience
 - 📊 Taught myself Data Analytic & Visualization
-- 🌐 Visit my [porfolio website](https://carmeli-tjahjono.github.io/carmeli)
+- 🌐 Visit my [porfolio website](https://carmeli-tjahjono.github.io/carmeli/)
 
 
